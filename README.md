@@ -101,31 +101,35 @@ From the above characteristic table, we can directly write the next state equati
 Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
-### Procedure
-/* write all the steps invloved */
+### Procedure:
 
+1.Create a project with required entities.
+
+2.Create a module along with respective file name.
+
+3.Run the respective programs for the given boolean equations.
+
+4.Run the module and get the respective RTL outputs.
+
+5.Create university program(VWF) for getting timing diagram.
+
+6.Give the respective inputs for timing diagram and obtain the result.
 
 
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
+
 Developed by: 
+
 RegisterNumber:  
-*/
 
-
-
-
+![image](https://github.com/23000966/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153983364/f8a6c4ee-b580-4555-98c9-6c6637b0c851)
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
-
-
-
-
-
-
+![image](https://github.com/23000966/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153983364/3b56564e-8a4f-4d8f-9232-ca078690684a)
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 

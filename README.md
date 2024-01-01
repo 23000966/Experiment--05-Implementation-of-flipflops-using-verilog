@@ -134,18 +134,24 @@ Developed by: SANTHOSH KUMAR R
 RegisterNumber: 23000966
 
 ![image](https://github.com/23000966/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153983364/eeb1d649-54c3-404c-a26c-31adc30c06bc)
+
+
 ![image](https://github.com/23000966/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153983364/c5637b20-cbc0-4b76-a82b-3efbc4878a7c)
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
 ![image](https://github.com/23000966/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153983364/e8bfe319-7768-4e51-90ef-2d09143c1a06)
+
+
 ![image](https://github.com/23000966/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153983364/9f508fd2-a0ee-44b5-ad68-e795b7a407d2)
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
 ![image](https://github.com/23000966/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153983364/1523304d-925f-46a1-9461-b44506eb4674)
+
+
 ![image](https://github.com/23000966/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153983364/b42bdc0b-6c2e-426b-9d2d-e74515074342)
 
 
